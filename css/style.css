@@ -18,12 +18,12 @@ img{
 
 .google{
 	margin-top:0;
+	border-bottom:1px solid lightgray;
 }
 
 
 .logo {
-    width: 180px;
-    height: 75px;
+    width: 300px;
     margin-left: auto;
     margin-right: auto;
     display: block;
@@ -32,14 +32,15 @@ img{
 }
 
 
-.firstp{
-	font-size:27px;
-	text-align:center;
-	width:510px;
-	margin:0 auto;
-	font-weight: bold;
-	line-height:1.4;
+.firstp {
+    font-size: 42px;
+    text-align: center;
+    width: 740px;
+    margin: 0 auto;
+    font-weight: bold;
+    line-height: 1.4;
 }
+
 .firstp p{
 	margin:0;
 	margin: 30px;
@@ -179,10 +180,11 @@ float:left;
 overflow:hidden;
 }
 
-.right h2{
-	margin-left:38px;
-	text-transform: uppercase;
-	font-size: 20px;
+.right h2 {
+    margin-left: 38px;
+    text-transform: uppercase;
+    font-size: 20px;
+    color: #fff;
 }
 
 .right ul{
